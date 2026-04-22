@@ -33,11 +33,19 @@ Features, How it works, Pricing, and CTA sections
 
 # 🛠️ Tech Stack
 Backend
-TechnologyUsageDjango 4.xREST API, models, authenticationDjango REST FrameworkAPI endpoints, serializers, permissionsSimple JWTToken-based authenticationPostgreSQLPrimary databasepython-dateutilInvestment maturity date calculationAnthropic Claude APIAll 6 AI agentsTesseract OCRReceipt verification
+Django 4.x – REST API, models, authentication
+Django REST Framework – API endpoints, serializers, permissions
+Simple JWT – Token-based authentication
+PostgreSQL – Primary database
+python-dateutil – Investment maturity date calculations
+Anthropic Claude API – Powers 6 AI agents
+Tesseract OCR – Receipt verification
 Frontend
-TechnologyUsageReact 18UI components and routingReact Router v6Client-side routing and protected routesAxiosAPI calls with JWT interceptorsViteDevelopment server and build toolInline stylesComponent-scoped styling (no CSS framework)
-Infrastructure
-TechnologyUsageDockerContainerisationNginxReverse proxyWindows Task SchedulerDaily investment maturity checks
+React 18 – UI components and app structure
+React Router v6 – Client-side routing and protected routes
+Axios – API calls with JWT interceptors
+Vite – Development server and build tool
+Inline Styles – Component-scoped styling (no CSS framework)
 
 # 🚀 How to Run
 Prerequisites
