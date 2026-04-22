@@ -24,6 +24,7 @@ The platform is managed through a full admin dashboard with sidebar navigation, 
 
 # 🤖 AI Agents (Powered by Claude)
 AgentRole💬 Chat AssistantAnswers user questions with full account context📈 Rate AnalystAnalyses rate trends, advises on best cashout timing🎯 Maturity AdvisorRecommends reinvest or cash out per investment🔍 Fraud DetectorRisk scores pending transfers (0–100) with flags💧 Liquidity MonitorTracks SDG reserves, warns of cashout risks🧮 AI AccountantGenerates weekly/monthly reports, answers finance questions
+ ![Alt text](Chatbot.PNG)
 # 🌍 Landing Page
 Bilingual English/Arabic with RTL support
 Bold modern dark design with gradient hero
