@@ -32,7 +32,7 @@ Bold modern dark design with gradient hero
 Features, How it works, Pricing, and CTA sections
 
 # 🛠️ Tech Stack
-Backend
+# Backend
 Django 4.x – REST API, models, authentication
 Django REST Framework – API endpoints, serializers, permissions
 Simple JWT – Token-based authentication
@@ -40,7 +40,7 @@ PostgreSQL – Primary database
 python-dateutil – Investment maturity date calculations
 Anthropic Claude API – Powers 6 AI agents
 Tesseract OCR – Receipt verification
-Frontend
+# Frontend
 React 18 – UI components and app structure
 React Router v6 – Client-side routing and protected routes
 Axios – API calls with JWT interceptors
