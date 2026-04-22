@@ -1,6 +1,6 @@
 # transfer-system-django
  It is  AI-powered  money transfer and investment platform.
- ![Alt text](Capture.PNG)
+ ![Alt text](admin.PNG)
 # 📖 About
 It allows UK users to send money to Nigeria instantly with transparent fees and real-time exchange rates. Nigeria users can send money and invest it over 6, 9, or 12 month periods, tracking how their SDG grows in GBP value as exchange rates shift — with options to cash out or reinvest at maturity.
 The platform is managed through a full admin dashboard with sidebar navigation, where admins set exchange rates, manage Bankak payment accounts, approve or reject transfers, and monitor the platform through 6 built-in AI agents — covering fraud detection, liquidity monitoring, rate analysis, investment advisory, financial reporting, and a user chat assistant.
@@ -24,6 +24,7 @@ The platform is managed through a full admin dashboard with sidebar navigation, 
 
 # 🤖 AI Agents (Powered by Claude)
 AgentRole💬 Chat AssistantAnswers user questions with full account context📈 Rate AnalystAnalyses rate trends, advises on best cashout timing🎯 Maturity AdvisorRecommends reinvest or cash out per investment🔍 Fraud DetectorRisk scores pending transfers (0–100) with flags💧 Liquidity MonitorTracks SDG reserves, warns of cashout risks🧮 AI AccountantGenerates weekly/monthly reports, answers finance questions
+ ![Alt text](Capture.PNG)
  ![Alt text](Chatbot.PNG)
 # 🌍 Landing Page
 Bilingual English/Arabic with RTL support
