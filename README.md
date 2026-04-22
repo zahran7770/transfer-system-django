@@ -46,7 +46,7 @@ PostgreSQL
 An Anthropic API key
 
 1. Clone the repo
-bashgit clone https://github.com/YOUR_USERNAME/hawalalink.git
+bashgit clone https://github.com/zahran7770/transfer-system-django.git
 cd hawalalink
 2. Backend setup
 bashcd backend
